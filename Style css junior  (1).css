@@ -1,0 +1,36 @@
+
+```css
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+}
+header {
+  background: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+nav a {
+  margin: 0 10px;
+  color: white;
+[25/08, 13:36] Chat GPT WhatsApp: text-decoration: none;
+}
+main {
+  padding: 20px;
+  text-align: center;
+}
+footer {
+  background: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+```
+
+---
+
